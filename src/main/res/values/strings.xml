@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guestlist</string>
+    <string name="btnShowGuests">Show guests</string>
+    <string name="litsCall">Call</string>
+    <string name="litsPermissionProblem">Permission problem</string>
+    <string name="litsGeneralProblem">General problem</string>
+</resources>
