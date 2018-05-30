@@ -64,7 +64,7 @@ public class GuestsActivity extends AppCompatActivity {
     /**
      * Return listener for guests list view.
      */
-    public AdapterView.OnItemClickListener getLvGuestlistListener() {
+    private AdapterView.OnItemClickListener getLvGuestlistListener() {
         return new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
